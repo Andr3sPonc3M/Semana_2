@@ -12,3 +12,4 @@ c:\Users\Usuario\Documents\UNIVERSIDAD\ESTRUCTURA DE DATOS\TAREAS\TAREAS SEMANA 
 c:\Users\Usuario\Documents\UNIVERSIDAD\ESTRUCTURA DE DATOS\TAREAS\TAREAS SEMANA 2\Semana_2\obj\Debug\net8.0\Semana_2.pdb
 c:\Users\Usuario\Documents\UNIVERSIDAD\ESTRUCTURA DE DATOS\TAREAS\TAREAS SEMANA 2\Semana_2\obj\Debug\net8.0\Semana_2.genruntimeconfig.cache
 c:\Users\Usuario\Documents\UNIVERSIDAD\ESTRUCTURA DE DATOS\TAREAS\TAREAS SEMANA 2\Semana_2\obj\Debug\net8.0\ref\Semana_2.dll
+C:\Users\Usuario\Documents\UNIVERSIDAD\ESTRUCTURA DE DATOS\TAREAS\TAREAS SEMANA 2\Semana_2\obj\Debug\net8.0\Semana_2.sourcelink.json
