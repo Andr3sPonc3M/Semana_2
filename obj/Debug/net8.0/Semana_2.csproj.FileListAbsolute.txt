@@ -1,0 +1,14 @@
+c:\Users\Usuario\Documents\UNIVERSIDAD\ESTRUCTURA DE DATOS\TAREAS\TAREAS SEMANA 2\Semana_2\bin\Debug\net8.0\Semana_2.exe
+c:\Users\Usuario\Documents\UNIVERSIDAD\ESTRUCTURA DE DATOS\TAREAS\TAREAS SEMANA 2\Semana_2\bin\Debug\net8.0\Semana_2.deps.json
+c:\Users\Usuario\Documents\UNIVERSIDAD\ESTRUCTURA DE DATOS\TAREAS\TAREAS SEMANA 2\Semana_2\bin\Debug\net8.0\Semana_2.runtimeconfig.json
+c:\Users\Usuario\Documents\UNIVERSIDAD\ESTRUCTURA DE DATOS\TAREAS\TAREAS SEMANA 2\Semana_2\bin\Debug\net8.0\Semana_2.dll
+c:\Users\Usuario\Documents\UNIVERSIDAD\ESTRUCTURA DE DATOS\TAREAS\TAREAS SEMANA 2\Semana_2\bin\Debug\net8.0\Semana_2.pdb
+c:\Users\Usuario\Documents\UNIVERSIDAD\ESTRUCTURA DE DATOS\TAREAS\TAREAS SEMANA 2\Semana_2\obj\Debug\net8.0\Semana_2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Usuario\Documents\UNIVERSIDAD\ESTRUCTURA DE DATOS\TAREAS\TAREAS SEMANA 2\Semana_2\obj\Debug\net8.0\Semana_2.AssemblyInfoInputs.cache
+c:\Users\Usuario\Documents\UNIVERSIDAD\ESTRUCTURA DE DATOS\TAREAS\TAREAS SEMANA 2\Semana_2\obj\Debug\net8.0\Semana_2.AssemblyInfo.cs
+c:\Users\Usuario\Documents\UNIVERSIDAD\ESTRUCTURA DE DATOS\TAREAS\TAREAS SEMANA 2\Semana_2\obj\Debug\net8.0\Semana_2.csproj.CoreCompileInputs.cache
+c:\Users\Usuario\Documents\UNIVERSIDAD\ESTRUCTURA DE DATOS\TAREAS\TAREAS SEMANA 2\Semana_2\obj\Debug\net8.0\Semana_2.dll
+c:\Users\Usuario\Documents\UNIVERSIDAD\ESTRUCTURA DE DATOS\TAREAS\TAREAS SEMANA 2\Semana_2\obj\Debug\net8.0\refint\Semana_2.dll
+c:\Users\Usuario\Documents\UNIVERSIDAD\ESTRUCTURA DE DATOS\TAREAS\TAREAS SEMANA 2\Semana_2\obj\Debug\net8.0\Semana_2.pdb
+c:\Users\Usuario\Documents\UNIVERSIDAD\ESTRUCTURA DE DATOS\TAREAS\TAREAS SEMANA 2\Semana_2\obj\Debug\net8.0\Semana_2.genruntimeconfig.cache
+c:\Users\Usuario\Documents\UNIVERSIDAD\ESTRUCTURA DE DATOS\TAREAS\TAREAS SEMANA 2\Semana_2\obj\Debug\net8.0\ref\Semana_2.dll
